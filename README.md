@@ -10,7 +10,7 @@
 
 * Склонировать проект:
 ```shell
-git clone [URL](https://github.com/IIPery/trusov_test_task/)
+git clone https://github.com/IIPery/trusov_test_task/
 ```
 * Установить зависимости:
 ```shell
